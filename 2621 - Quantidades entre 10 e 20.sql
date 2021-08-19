@@ -1,2 +1,0 @@
-https://app.powerbi.com/Redirect?action=OpenApp&appId=d155749c-1e6d-48a6-9349-9f224deacbd8&ctid=812a6bd0-5829-4196-b2be-d0580b7bd0cb - app
-https://app.powerbi.com/links/odxYoGxDBt?ctid=812a6bd0-5829-4196-b2be-d0580b7bd0cb&pbi_source=linkShare - dash
